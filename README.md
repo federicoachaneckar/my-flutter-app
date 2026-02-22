@@ -1,6 +1,6 @@
 # my_two_page_app
 
-A new Flutter project.
+A new Flutter project. A simple one.
 
 ## Getting Started
 
